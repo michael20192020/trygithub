@@ -25,4 +25,9 @@ public class MainActivity extends AppCompatActivity {
     {
         Log.d("aaa", "hide: aaabbb");
     }
+
+    public void hello()
+    {
+        
+    }
 }
