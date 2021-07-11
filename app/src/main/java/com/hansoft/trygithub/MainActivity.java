@@ -20,4 +20,9 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(MainActivity.this,"hello michael",Toast.LENGTH_LONG).show();
         Log.d("aaa", "show: aaabbb");
     }
+
+    public void hide()
+    {
+        Log.d("aaa", "hide: aaabbb");
+    }
 }
